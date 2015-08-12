@@ -1,0 +1,2 @@
+# textViewer
+Qt sample Project
